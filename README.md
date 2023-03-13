@@ -1,5 +1,6 @@
 # Netflix-JS
-This project is a Netflix clone app that displays image contents using JavaScript and API.
+This project is a Netflix clone app that displays image contents using JavaScript and API.<br>
+ live: https://aswin-786.github.io/Netflix-JS/
 
 <h2>Features</h2>
 <ul>
